@@ -11,7 +11,7 @@
 
 body {
   font-family: "Open Sans", sans-serif;
-  background-image: url("bilder/background-img.jpg");
+  background-image: url("bilder/background-img.webp");
   background-size: cover;
   /* background-position: center center;  */
   overflow-x: hidden;
@@ -163,7 +163,7 @@ nav a:hover {
   }
 }
 section {
-  background: url(bg1.jpg) no-repeat;
+  background: url(bg1.webp) no-repeat;
   background-size: cover;
   height: calc(100vh - 80px);
 }
