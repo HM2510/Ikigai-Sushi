@@ -1,3 +1,4 @@
 # Unnecessary files
 .vscode/
 .idea/
+.unlighthouse/
